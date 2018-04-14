@@ -1,0 +1,1 @@
+C:\socketioApp\SocketIOapp\SocketIOapp\SocketIOapp.UWP\SocketIOapp.UWP.csproj;x86

@@ -1,0 +1,13 @@
+C:\socketioApp\SocketIOapp\SocketIOapp\SocketIOapp\bin\Debug\netstandard2.0\SocketIOapp.deps.json
+C:\socketioApp\SocketIOapp\SocketIOapp\SocketIOapp\bin\Debug\netstandard2.0\SocketIOapp.dll
+C:\socketioApp\SocketIOapp\SocketIOapp\SocketIOapp\obj\Debug\netstandard2.0\SocketIOapp.csprojResolveAssemblyReference.cache
+C:\socketioApp\SocketIOapp\SocketIOapp\SocketIOapp\obj\Debug\netstandard2.0\SocketIOapp.csproj.CoreCompileInputs.cache
+C:\socketioApp\SocketIOapp\SocketIOapp\SocketIOapp\obj\Debug\netstandard2.0\SocketIOapp.App.xaml.g.cs
+C:\socketioApp\SocketIOapp\SocketIOapp\SocketIOapp\obj\Debug\netstandard2.0\SocketIOapp.MainPage.xaml.g.cs
+C:\socketioApp\SocketIOapp\SocketIOapp\SocketIOapp\obj\Debug\netstandard2.0\SocketIOapp.AssemblyInfoInputs.cache
+C:\socketioApp\SocketIOapp\SocketIOapp\SocketIOapp\obj\Debug\netstandard2.0\SocketIOapp.AssemblyInfo.cs
+C:\socketioApp\SocketIOapp\SocketIOapp\SocketIOapp\bin\Debug\netstandard2.0\SocketIOapp.pdb
+C:\socketioApp\SocketIOapp\SocketIOapp\SocketIOapp\obj\Debug\netstandard2.0\SocketIOapp.dll
+C:\socketioApp\SocketIOapp\SocketIOapp\SocketIOapp\obj\Debug\netstandard2.0\SocketIOapp.pdb
+C:\socketioApp\SocketIOapp\SocketIOapp\SocketIOapp\obj\Debug\netstandard2.0\SocketIOapp.dll.mdb
+C:\socketioApp\SocketIOapp\SocketIOapp\SocketIOapp\bin\Debug\netstandard2.0\SocketIOapp.dll.mdb
